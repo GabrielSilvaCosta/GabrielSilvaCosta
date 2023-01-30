@@ -8,7 +8,8 @@
 
 
 ![GabrielSilvaCosta GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSilvaCosta&show_icons=true&theme=dracula)
-
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilvaCosta&layout=compact)](https://github.com/GabrielSilvaCosta/github-readme-stats)
 
 ## tecnologia que eu uso no meu dia dia.
 
