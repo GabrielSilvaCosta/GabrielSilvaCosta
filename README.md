@@ -27,6 +27,7 @@
    <img  alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
    <img  alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
     <img  alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img  alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </div><br>
 
   Sou apaixonado por tecnologia, atualmente estou estudando para me tornar desenvolvedor web no futuro.
