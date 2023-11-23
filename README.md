@@ -7,7 +7,7 @@
 
 
 
-![GabrielSilvaCosta GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSilvaCosta&show_icons=true&theme=radical)
+![GabrielSilvaCosta GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSilvaCosta&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilvaCosta)](https://github.com/GabrielSilvaCosta/github-readme-stats)
  
