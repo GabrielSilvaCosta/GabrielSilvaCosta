@@ -28,6 +28,9 @@
    <img  alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
     <img  alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img  alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img  alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img  alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img  alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   </div><br>
 
   Sou apaixonado por tecnologia, atualmente estou estudando para me tornar desenvolvedor web no futuro.
