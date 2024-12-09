@@ -34,6 +34,5 @@
     <img  alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   </div><br>
 
-  Sou apaixonado por tecnologia, atualmente estou estudando para me tornar desenvolvedor web no futuro.
 
 
