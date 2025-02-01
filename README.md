@@ -13,12 +13,11 @@
 
 # Minhas Estatísticas no GitHub
 
+![Snake animation](https://github.com/GabrielSilvaCosta/GabrielSilvaCosta/blob/output/github-contribution-grid-snake.svg)
 
 ![GabrielSilvaCosta GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSilvaCosta&show_icons=true&theme=merko&hide=issues,contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilvaCosta&layout=compact&theme=merko)](https://github.com/GabrielSilvaCosta/github-readme-stats)
-
-
 
 ---
 
@@ -48,9 +47,6 @@
 
 ---
 
-
-
 ## 📫 Vamos conversar?
 
 💬 Sinta-se à vontade para entrar em contato comigo através das minhas redes sociais ou por e-mail: gabrielsilvacostal12345678@gmail.com
-
