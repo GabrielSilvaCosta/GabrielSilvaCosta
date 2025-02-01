@@ -14,28 +14,10 @@
 # Minhas Estatísticas no GitHub
 
 
-![GabrielSilvaCosta GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSilvaCosta&show_icons=true&theme=radical&hide=issues,contribs)
+![GabrielSilvaCosta GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSilvaCosta&show_icons=true&theme=merko&hide=issues,contribs)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilvaCosta&layout=compact&theme=merko)](https://github.com/GabrielSilvaCosta/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilvaCosta&layout=compact&theme=radical)](https://github.com/GabrielSilvaCosta/github-readme-stats)
-
----
-
-## Troféus do GitHub
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=GabrielSilvaCosta&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## Atividade no GitHub
-
-![GabrielSilvaCosta's Activity Graph](https://activity-graph.herokuapp.com/graph?username=GabrielSilvaCosta&theme=github)
-
----
-
-## Sequência de Commits
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GabrielSilvaCosta&theme=dark)](https://git.io/streak-stats)
 
 
 ---
