@@ -13,36 +13,11 @@
 
 # Minhas Estatísticas no GitHub
 
-<!-- GitHub Readme Stats com tema "radical" -->
-![GabrielSilvaCosta GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSilvaCosta&show_icons=true&theme=radical&hide=issues,contribs)
 
-<!-- Top Languages com tema "radical" e layout compacto -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilvaCosta&layout=compact&theme=radical)](https://github.com/GabrielSilvaCosta/github-readme-stats)
 
----
+![GabrielSilvaCosta GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSilvaCosta&show_icons=true&theme=merko&hide=issues,contribs)
 
-## Troféus do GitHub
-<!-- GitHub Profile Trophy com tema "onedark" -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=GabrielSilvaCosta&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## Atividade no GitHub
-<!-- Gráfico de atividade (contribuições) -->
-![GabrielSilvaCosta's Activity Graph](https://activity-graph.herokuapp.com/graph?username=GabrielSilvaCosta&theme=github)
-
----
-
-## Sequência de Commits
-<!-- GitHub Streak Stats com tema "dark" -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GabrielSilvaCosta&theme=dark)](https://git.io/streak-stats)
-
----
-
-## Snake na Grid de Contribuições
-<!-- Imagem do github-contribution-grid-snake -->
-![Snake Animation](https://raw.githubusercontent.com/Platane/snake-github-contributions/master/github-contribution-grid-snake.svg)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilvaCosta&layout=compact&theme=merko)](https://github.com/GabrielSilvaCosta/github-readme-stats)
 
 ---
 
