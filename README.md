@@ -15,7 +15,7 @@
 
 
 
-![GabrielSilvaCosta GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielSilvaCosta)
+![GabrielSilvaCosta GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielSilvaCosta&show_icons=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielSilvaCosta&layout=compact&theme=merko)
 
