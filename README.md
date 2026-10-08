@@ -1,68 +1,71 @@
-# Olá, eu sou o Gabriel Silva! 👋
+<div align="center">
 
-💻 Desenvolvedor Web Full Stack | 🌍 Brasil  
-🚀 Apaixonado por criar soluções inovadoras e eficientes  
-📚 Sempre aprendendo e evoluindo minhas habilidades  
+# 👋 Olá, eu sou o Gabriel Silva
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.silva2134/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100012953852531)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielSilvaCosta)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-775a06256)
+### 🚀 Desenvolvedor Front-End | Vue.js & TypeScript Specialist
 
----
-
-# Minhas Estatísticas no GitHub
-
-
-
-![GabrielSilvaCosta GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielSilvaCosta&show_icons=true&theme=merko)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielSilvaCosta&layout=compact&theme=merko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-775a06256)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielSilvaCosta)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielsilvacostal12345678@gmail.com)
 
 ---
 
-## 🛠️ Tecnologias que eu uso no meu dia a dia
+</div>
 
-### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 📌 Sobre Mim
 
-### Back-end
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+Desenvolvedor Front-End com atuação na construção de plataformas educacionais em escala e projetos *greenfield*, focado no ecossistema moderno de **Vue 3.5**, **TypeScript** e **Tailwind CSS**.
 
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-
-### Ferramentas e Outros
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
-![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
-![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+- 🏗️ **Arquitetura & Design Systems**: Experiência na definição de arquiteturas *feature-based*, criação de Design Systems próprios (baseados no GOV.BR DS) e construção de componentes reutilizáveis.
+- ⚡ **Performance & State**: Especialista em gerenciamento de estado assíncrono com **TanStack Query** e integração com APIs REST.
+- 🧪 **Qualidade & CI/CD**: Implementação de suítes de testes unitários e de integração (**Vitest**) e pipelines de integração contínua via **GitHub Actions** com regras rigorosas de qualidade.
+- 🤖 **IA & Context Engineering**: Criação e estruturação de documentações arquiteturais normativas para desenvolvimento assistido por IA (Cursor).
 
 ---
 
-## 📫 Vamos conversar?
+## 🛠️ Tech Stack & Ferramentas
 
-💬 Sinta-se à vontade para entrar em contato comigo através das minhas redes sociais ou por e-mail: gabrielsilvacostal12345678@gmail.com
+### 🎨 Front-End (Especialidade)
+![Vue.js](https://img.shields.io/badge/Vue.js_3.5-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFE56D?style=flat-square&logo=vuedotjs&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🧪 Testes, Qualidade & CI/CD
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+
+### ⚙️ Ferramentas & Ecossistema
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white)
+
+---
+
+## 📈 Estatísticas de Contribuição & Sequência
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielSilvaCosta&theme=tokyonight&hide_border=true" alt="Gabriel Streak Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilvaCosta&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Langs" width="45%" />
+
+</div>
+
+---
+
+<div align="center">
+
+💬 **Procurando trocar uma ideia sobre Front-End, Vue ou Arquitetura de Software?**  
+Conecte-se comigo pelo [LinkedIn](https://www.linkedin.com/in/gabriel-silva-775a06256) ou envie um e-mail!
+
+</div>
