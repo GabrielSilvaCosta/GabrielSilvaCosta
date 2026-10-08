@@ -76,11 +76,15 @@ Desenvolvedor Front-End especializado na criação de **interfaces modernas, res
 
 - 📊 **Analytics V8 (Bobby Soluções Educativas)**
   * *Techs*: Vue 3.5, TypeScript, Vite, TanStack Query, Tailwind CSS, Vitest, Zod, ECharts, Docker.
-  * *Destaques*: Estruturação do Front-End *greenfield* para gestão de dados educacionais municipais[cite: 1]; criação do Design System próprio (~40 componentes) alinhado ao GOV.BR DS[cite: 1]; integração multi-tenant com autenticação JWT e rotinas de CI no GitHub Actions com testes paralelos[cite: 1].
+  * *Destaques*: Estruturação do Front-End *greenfield* para gestão de dados educacionais municipais; criação do Design System próprio (~40 componentes) alinhado ao GOV.BR DS; integração multi-tenant com autenticação JWT e rotinas de CI no GitHub Actions com testes paralelos.
 
 - 🎙️ **Épico Bobby Fluência (Módulo de Avaliação)**
   * *Techs*: Vue 3.5, TypeScript, TanStack Query, APIs REST Laravel.
-  * *Destaques*: Desenvolvimento *mobile-first* da interface de gravação e upload multipart de áudio, fila interativa de correções leitoras e dashboards de métricas do corretor em tempo real[cite: 1].
+  * *Destaques*: Desenvolvimento *mobile-first* da interface de gravação e upload multipart de áudio, fila interativa de correções leitoras e dashboards de métricas do corretor em tempo real.
+
+- ⚽ **Trybe Futebol Clube & Recipes App (Projetos Formativos)**
+  * *Techs*: React, Node.js, Express, Sequelize (ORM), MySQL, TypeScript, Jest, RTL.
+  * *Destaques*: Desenvolvimento em equipe focado em consumo de APIs REST, autenticação com JWT, arquitetura MSC e testes integrados e unitários cobrindo fluxos críticos de aplicação.
 
 ---
 
